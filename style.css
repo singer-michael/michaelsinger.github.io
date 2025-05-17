@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  padding: 2em;
+  max-width: 700px;
+  margin: auto;
+  background: #fafafa;
+  color: #333;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.2em;
+}
+
+.subtitle {
+  color: #777;
+  margin-bottom: 1em;
+}
+
+nav a {
+  margin-right: 1em;
+  color: #0366d6;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
